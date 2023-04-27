@@ -3,3 +3,4 @@ history2.pkl
 model_resnet.h5
 model_vgg16.h5
 Modelweights&history.zip
+flagged/.DS_Store
